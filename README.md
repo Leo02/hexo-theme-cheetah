@@ -12,7 +12,7 @@ $ git clone https://github.com/hayasuki/hexo-theme-cheetah.git themes/cheetah
 
 ###Enable
 
-Modify theme setting in _config.yml to landscape.
+Modify theme setting in _config.yml to cheetah.
 
 ###Update
 ```
