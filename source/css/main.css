@@ -248,6 +248,12 @@ input[disabled] {
 .grap strong {
   font-weight: 700;
 }
+@media (max-width: 1020px) {
+  .grap p.with-img {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
 .svgIcon {
   vertical-align: middle;
 }
